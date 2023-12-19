@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/maystort.pixelcrm.github.io/static/css/main.89d9c7f9.css",
-    "main.js": "/maystort.pixelcrm.github.io/static/js/main.878bb836.js",
+    "main.js": "/maystort.pixelcrm.github.io/static/js/main.b59a6a20.js",
     "static/js/356.0048894d.js": "/maystort.pixelcrm.github.io/static/js/356.0048894d.js",
     "static/media/MaterialCommunityIcons.ttf": "/maystort.pixelcrm.github.io/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Ionicons.ttf": "/maystort.pixelcrm.github.io/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
@@ -30,12 +30,12 @@
     "manifest.json": "/maystort.pixelcrm.github.io/manifest.json",
     "serve.json": "/maystort.pixelcrm.github.io/serve.json",
     "main.89d9c7f9.css.map": "/maystort.pixelcrm.github.io/static/css/main.89d9c7f9.css.map",
-    "main.878bb836.js.map": "/maystort.pixelcrm.github.io/static/js/main.878bb836.js.map",
+    "main.b59a6a20.js.map": "/maystort.pixelcrm.github.io/static/js/main.b59a6a20.js.map",
     "356.0048894d.js.map": "/maystort.pixelcrm.github.io/static/js/356.0048894d.js.map"
   },
   "entrypoints": [
     "static/js/356.0048894d.js",
     "static/css/main.89d9c7f9.css",
-    "static/js/main.878bb836.js"
+    "static/js/main.b59a6a20.js"
   ]
 }
